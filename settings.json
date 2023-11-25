@@ -11,7 +11,7 @@
       "port": 3306,
       "driver": "MySQL",
       "name": "MySqlConnection",
-      "database": "siddb",
+      "database": "hotelDB",
       "username": "admin",
       "password": "admin"
     }
