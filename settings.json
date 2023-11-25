@@ -1,0 +1,24 @@
+{
+  "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "MySqlConnection",
+      "database": "siddb",
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "iostream": "cpp",
+    "new": "cpp"
+  }
+}
